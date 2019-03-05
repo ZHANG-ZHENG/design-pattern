@@ -8,5 +8,6 @@
 	<modules>  
 		<module>factory-method</module>
 		<module>abstract-factory</module>
+		<module>future</module>
     </modules>  
 </project>
