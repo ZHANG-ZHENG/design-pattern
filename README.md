@@ -1,24 +1,24 @@
-# design-pattern
-1.¹¤³§·½·¨Ä£Ê½	Factory Method Pattern
-2.³éÏó¹¤³§Ä£Ê½	Abstract Factory Pattern
-3.½¨ÔìÕßÄ£Ê½	Builder Pattern
-4.Ô­ĞÍÄ£Ê½	Prototype Pattern
-5.µ¥ÀıÄ£Ê½	Singleton Pattern
-6.ÊÊÅäÆ÷Ä£Ê½	Adapter Pattern
-7.ÇÅÁºÄ£Ê½/ÇÅ½ÓÄ£Ê½	Bridge Pattern
-8.×éºÏÄ£Ê½	Composite Pattern
-9.×°ÊÎÄ£Ê½	Decorator Pattern
-10.ÃÅÃæÄ£Ê½/Íâ¹ÛÄ£Ê½	Facade Pattern
-11.ÏíÔªÄ£Ê½	Flyweight Pattern
-12.´úÀíÄ£Ê½	Proxy pattern
-13.ÔğÈÎÁ´Ä£Ê½	Chain of Responsibility Pattern
-14.ÃüÁîÄ£Ê½	Command Pattern
-15.½âÊÍÆ÷Ä£Ê½	Interpreter Pattern
-16.µü´úÆ÷Ä£Ê½	Iterator Pattern
-17.ÖĞ½éÕßÄ£Ê½	Mediator Pattern
-18.±¸ÍüÂ¼Ä£Ê½	Memento Pattern
-19.¹Û²ìÕßÄ£Ê½	Observer Pattern
-20.×´Ì¬Ä£Ê½	State Pattern
-21.²ßÂÔÄ£Ê½	Strategy Pattern
-22.Ä£°å·½·¨Ä£Ê½	Template Method Pattern
-23.·ÃÎÊÕßÄ£Ê½	Visitor Pattern
+1.å·¥å‚æ–¹æ³•æ¨¡å¼	Factory Method Pattern
+2.æŠ½è±¡å·¥å‚æ¨¡å¼	Abstract Factory Pattern
+3.å»ºé€ è€…æ¨¡å¼	Builder Pattern
+4.åŸå‹æ¨¡å¼	Prototype Pattern
+5.å•ä¾‹æ¨¡å¼	Singleton Pattern
+6.é€‚é…å™¨æ¨¡å¼	Adapter Pattern
+7.æ¡¥æ¢æ¨¡å¼/æ¡¥æ¥æ¨¡å¼	Bridge Pattern
+8.ç»„åˆæ¨¡å¼	Composite Pattern
+9.è£…é¥°æ¨¡å¼	Decorator Pattern
+10.é—¨é¢æ¨¡å¼/å¤–è§‚æ¨¡å¼	Facade Pattern
+11.äº«å…ƒæ¨¡å¼	Flyweight Pattern
+12.ä»£ç†æ¨¡å¼	Proxy pattern
+13.è´£ä»»é“¾æ¨¡å¼	Chain of Responsibility Pattern
+14.å‘½ä»¤æ¨¡å¼	Command Pattern
+15.è§£é‡Šå™¨æ¨¡å¼	Interpreter Pattern
+16.è¿­ä»£å™¨æ¨¡å¼	Iterator Pattern
+17.ä¸­ä»‹è€…æ¨¡å¼	Mediator Pattern
+18.å¤‡å¿˜å½•æ¨¡å¼	Memento Pattern
+19.è§‚å¯Ÿè€…æ¨¡å¼	Observer Pattern
+20çŠ¶æ€æ¨¡å¼	State Pattern
+21.ç­–ç•¥æ¨¡å¼	Strategy Pattern
+22.æ¨¡æ¿æ–¹æ³•æ¨¡å¼	Template Method Pattern
+23.è®¿é—®è€…æ¨¡å¼	Visitor Pattern
+z
