@@ -8,6 +8,8 @@
 	<modules>  
 		<module>factory-method</module>
 		<module>abstract-factory</module>
+		<module>singleton</module>
 		<module>future</module>
+		<module>proxy</module>
     </modules>  
 </project>
