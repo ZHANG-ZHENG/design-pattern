@@ -15,5 +15,6 @@
         <module>command</module>
         <module>flyweight</module>
         <module>state</module>
+        <module>builder</module>
     </modules>  
 </project>
