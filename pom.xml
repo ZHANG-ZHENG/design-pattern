@@ -16,5 +16,7 @@
         <module>flyweight</module>
         <module>state</module>
         <module>builder</module>
+        <module>composite</module>
+        <module>decorator</module>
     </modules>  
 </project>
