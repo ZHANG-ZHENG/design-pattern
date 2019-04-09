@@ -18,5 +18,6 @@
         <module>builder</module>
         <module>composite</module>
         <module>decorator</module>
+		<module>chain</module>
     </modules>  
 </project>
