@@ -19,5 +19,6 @@
         <module>composite</module>
         <module>decorator</module>
 		<module>chain</module>
+		<module>adapter</module>
     </modules>  
 </project>
