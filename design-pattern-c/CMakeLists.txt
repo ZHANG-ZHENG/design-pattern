@@ -34,5 +34,5 @@ ELSE ()
 ENDIF (CMAKE_SYSTEM_NAME MATCHES "Linux")
 
 # 包含子项目。
-add_subdirectory ("callback_test")
+add_subdirectory ("singleton")
 
