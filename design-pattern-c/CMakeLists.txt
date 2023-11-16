@@ -49,5 +49,6 @@ add_subdirectory ("state")
 add_subdirectory ("strategy")
 add_subdirectory ("template-method")
 add_subdirectory ("visitor")
+add_subdirectory ("proxy")
 
 
