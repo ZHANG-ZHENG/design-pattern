@@ -54,5 +54,6 @@ add_subdirectory ("prototype")
 add_subdirectory ("memento")
 add_subdirectory ("mediator")
 add_subdirectory ("interpreter")
-
-
+add_subdirectory ("facade")
+add_subdirectory ("decorator")
+add_subdirectory ("composite")
