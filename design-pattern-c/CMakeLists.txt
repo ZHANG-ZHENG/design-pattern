@@ -52,5 +52,6 @@ add_subdirectory ("visitor")
 add_subdirectory ("proxy")
 add_subdirectory ("prototype")
 add_subdirectory ("memento")
+add_subdirectory ("mediator")
 
 
