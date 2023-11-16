@@ -47,6 +47,7 @@ add_subdirectory ("iterator")
 add_subdirectory ("observer")
 add_subdirectory ("state")
 add_subdirectory ("strategy")
+add_subdirectory ("template-method")
 add_subdirectory ("visitor")
 
 
