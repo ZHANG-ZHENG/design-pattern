@@ -37,6 +37,7 @@ ENDIF (CMAKE_SYSTEM_NAME MATCHES "Linux")
 add_subdirectory ("abstract-factory")
 add_subdirectory ("factory-method")
 add_subdirectory ("adapter")
+add_subdirectory ("bridge")
 add_subdirectory ("command")
 add_subdirectory ("singleton")
 
