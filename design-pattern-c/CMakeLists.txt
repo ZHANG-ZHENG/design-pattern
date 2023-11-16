@@ -45,5 +45,6 @@ add_subdirectory ("flyweight")
 add_subdirectory ("chain")
 add_subdirectory ("iterator")
 add_subdirectory ("observer")
+add_subdirectory ("state")
 
 
