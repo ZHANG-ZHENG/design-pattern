@@ -42,5 +42,6 @@ add_subdirectory ("bridge")
 add_subdirectory ("command")
 add_subdirectory ("singleton")
 add_subdirectory ("chain")
+add_subdirectory ("iterator")
 
 
