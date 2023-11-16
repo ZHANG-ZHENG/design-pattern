@@ -41,5 +41,6 @@ add_subdirectory ("adapter")
 add_subdirectory ("bridge")
 add_subdirectory ("command")
 add_subdirectory ("singleton")
+add_subdirectory ("chain")
 
 
