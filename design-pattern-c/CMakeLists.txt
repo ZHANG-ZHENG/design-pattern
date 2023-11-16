@@ -35,6 +35,7 @@ ENDIF (CMAKE_SYSTEM_NAME MATCHES "Linux")
 
 # 包含子项目。
 add_subdirectory ("abstract-factory")
+add_subdirectory ("factory-method")
 add_subdirectory ("command")
 add_subdirectory ("singleton")
 
